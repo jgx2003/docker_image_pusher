@@ -1,5 +1,5 @@
 whyour/qinglong:latest
-homeassistant/home-assistant:latest
+homeassistant/home-assistant:latest --platform = arm64
 esphome/esphome:stable
 whyour/qinglong:2.11.3
 
