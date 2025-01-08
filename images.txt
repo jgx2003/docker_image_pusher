@@ -3,4 +3,5 @@ whyour/qinglong:latest
 esphome/esphome:stable
 whyour/qinglong:2.11.3
 --platform=linux/arm64 homeassistant/home-assistant:2023.9.1
+--platform=linux/arm64 youshandefeiyang/allinone:latest 
 
